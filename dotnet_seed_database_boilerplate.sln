@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet_seed_database_boilerplate", "dotnet_seed_database_boilerplate\dotnet_seed_database_boilerplate.csproj", "{FE03B484-60E3-4B5A-821C-BC68933FCAFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE03B484-60E3-4B5A-821C-BC68933FCAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE03B484-60E3-4B5A-821C-BC68933FCAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE03B484-60E3-4B5A-821C-BC68933FCAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE03B484-60E3-4B5A-821C-BC68933FCAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4BBDD7F-35D6-4960-BE76-4768BC493971}
+	EndGlobalSection
+EndGlobal
